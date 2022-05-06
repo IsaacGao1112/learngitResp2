@@ -1,1 +1,2 @@
 This is second file located in root path of the learngit repository
+This is the first update after create a repository in the github
